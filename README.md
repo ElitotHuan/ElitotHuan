@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElitotHuan
 - 👀 I’m interested in Data , AI , Security
 - 🌱 I’m currently learning data warehouse , machine learning , System Security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something awesome
 - 📫 How to reach me ...
 
 <!---
